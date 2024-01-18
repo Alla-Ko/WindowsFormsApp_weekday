@@ -1,0 +1,11 @@
+C:\Alla\C#_proj\WindowsFormsApp_weekday\bin\Debug\WindowsFormsApp_weekday.exe.config
+C:\Alla\C#_proj\WindowsFormsApp_weekday\bin\Debug\WindowsFormsApp_weekday.exe
+C:\Alla\C#_proj\WindowsFormsApp_weekday\bin\Debug\WindowsFormsApp_weekday.pdb
+C:\Alla\C#_proj\WindowsFormsApp_weekday\obj\Debug\WindowsFormsApp_weekday.csproj.AssemblyReference.cache
+C:\Alla\C#_proj\WindowsFormsApp_weekday\obj\Debug\WindowsFormsApp_weekday.csproj.SuggestedBindingRedirects.cache
+C:\Alla\C#_proj\WindowsFormsApp_weekday\obj\Debug\WindowsFormsApp_weekday.Form1.resources
+C:\Alla\C#_proj\WindowsFormsApp_weekday\obj\Debug\WindowsFormsApp_weekday.Properties.Resources.resources
+C:\Alla\C#_proj\WindowsFormsApp_weekday\obj\Debug\WindowsFormsApp_weekday.csproj.GenerateResource.cache
+C:\Alla\C#_proj\WindowsFormsApp_weekday\obj\Debug\WindowsFormsApp_weekday.csproj.CoreCompileInputs.cache
+C:\Alla\C#_proj\WindowsFormsApp_weekday\obj\Debug\WindowsFormsApp_weekday.exe
+C:\Alla\C#_proj\WindowsFormsApp_weekday\obj\Debug\WindowsFormsApp_weekday.pdb
